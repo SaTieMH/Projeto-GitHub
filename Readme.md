@@ -28,3 +28,6 @@ será que essas alterações em novo-botao vão para master???
 Agora para clonar um repositório de terceiro
 
 git clone HTTP QUE EU PEGO NA PÁGINA DA PESSOA
+
+-----------------------------------------------------------------------------------------
+também posso fazer um pull request - sugerir alterações no código de outra pessoa
