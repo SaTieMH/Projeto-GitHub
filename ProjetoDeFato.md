@@ -9,3 +9,8 @@ git commit -m "mensagem"
 git push origin master
 
 just another change
+
+--------------------------------------------------------------------------------------
+Para alterar entre branchs uso o comando
+
+git checkout <nome da minha branch>
