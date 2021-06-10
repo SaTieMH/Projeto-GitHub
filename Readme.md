@@ -23,3 +23,8 @@ Saindo da branch atual (master) e estou indo para a nova branch (novo-botao) e a
 Posso criar novos arquivos ou continuar editando no mesmo arquivo. Neste caso vou criar um novo arquivo
 ---------------------------------------------------------------------------------------
 será que essas alterações em novo-botao vão para master???
+
+-------------------------------------------------------------------------------------------
+Agora para clonar um repositório de terceiro
+
+git clone HTTP QUE EU PEGO NA PÁGINA DA PESSOA
