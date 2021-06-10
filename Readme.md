@@ -21,3 +21,5 @@ Nome da nova branch = novo-botao
 Saindo da branch atual (master) e estou indo para a nova branch (novo-botao) e as alterações irão ocorrer apenas nessa nova branch
 
 Posso criar novos arquivos ou continuar editando no mesmo arquivo. Neste caso vou criar um novo arquivo
+---------------------------------------------------------------------------------------
+será que essas alterações em novo-botao vão para master???
